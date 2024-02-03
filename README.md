@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dlandolfi/dlandolfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello! Hola! Ciao! Saluton! 👋
+
+- 🔭 At work I'm currently working on:
+  - A Typescript React Native app
+  - A React student/faculty portal
+  - An Express.js backend 
+- 🌱 I’m currently learning:
+  - Go
+  - Microservices 
+- 😄 Pronouns: he/him
+- ⚡ I am also:
+  - a coffee enthusiast
+  - a philosophy ponderer
+  - a markdown evangelist

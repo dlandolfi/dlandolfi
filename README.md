@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   - Microservices 
 - 😄 Pronouns: he/him
 - ⚡ I am also:
-  - a thought philosophist
   - a coffee enthusiast
+  - a ruminating rationalist
   - a markdown evangelist

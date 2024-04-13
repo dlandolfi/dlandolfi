@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   - A Typescript React Native app
   - A React student/faculty portal
   - An Express.js backend 
+  - OIDC and OAuth 2.0
 - 🌱 I’m currently learning:
   - Go
   - Microservices 
